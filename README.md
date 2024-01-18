@@ -26,7 +26,7 @@ Develop a web-based Collaborative Task Manager that facilitates seamless collabo
 **Integration**: Seamless integration with popular project management tools, such as Jira or Trello.
 
 ### 3. Development Phases:
-- Planning: Define project scope, features, and user stories.
+Planning: Define project scope, features, and user stories.
 
  **Iteration 1**: Basic task creation, assignment, and real-time updates.
   
@@ -34,15 +34,19 @@ Develop a web-based Collaborative Task Manager that facilitates seamless collabo
 
 **Iteration 3**: Develop the dashboard and integration capabilities.
 
-Testing: Conduct thorough testing at the end of each iteration to ensure functionality and user satisfaction.
+![Task-manager-apps-740x380](https://github.com/abutalha08/Collaborative-Task-Manager/assets/156948058/2ef36d23-030c-444d-80de-4265d0e34bef)
+
+
+### 4. Testing:
+Conduct thorough testing at the end of each iteration to ensure functionality and user satisfaction.
 Deployment: Release the initial version, gather user feedback, and plan for future iterations.
 
-### 4. Benefits:
+### 5. Benefits:
 
-    Improved collaboration and communication within teams.
-    Increased visibility into project progress.
-    Enhanced flexibility to adapt to changing requirements.
-    User-centric development approach ensures a product that meets actual needs.
+1. Improved collaboration and communication within teams.
+2. Increased visibility into project progress.
+3. Enhanced flexibility to adapt to changing requirements.
+4. User-centric development approach ensures a product that meets actual needs.
 
-### 5. Target Users:
+### 6. Target Users: 
 Small to medium-sized teams in various industries seeking efficient task management and collaboration tools.
