@@ -13,17 +13,17 @@ Develop a web-based Collaborative Task Manager that facilitates seamless collabo
 
 ### 2. Key Features:
 
-**Task Creation and Assignment**: Users can create tasks, set priorities, and assign them to team members.
+**1. Task Creation and Assignment**: Users can create tasks, set priorities, and assign them to team members.
     
-**Real-time Collaboration**: Team members can update task status, add comments, and share files in real-time.
+**2. Real-time Collaboration**: Team members can update task status, add comments, and share files in real-time.
     
- **Notifications**: Instant notifications for task updates, deadlines, and mentions to keep everyone in the loop.
+ **3. Notifications**: Instant notifications for task updates, deadlines, and mentions to keep everyone in the loop.
     
- **Dashboard**: A visual dashboard displaying project progress, upcoming deadlines, and individual team member contributions.
+ **4. Dashboard**: A visual dashboard displaying project progress, upcoming deadlines, and individual team member contributions.
     
-**User Roles**: Differentiate between project managers, team leads, and team members with varying access levels.
+**5. User Roles**: Differentiate between project managers, team leads, and team members with varying access levels.
     
-**Integration**: Seamless integration with popular project management tools, such as Jira or Trello.
+**6. Integration**: Seamless integration with popular project management tools, such as Jira or Trello.
 
 ### 3. Development Phases:
 Planning: Define project scope, features, and user stories.
