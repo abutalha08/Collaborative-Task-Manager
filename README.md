@@ -2,8 +2,14 @@
 
 ## SDLC Model: Agile
 
+
+![Agile](https://github.com/abutalha08/Collaborative-Task-Manager/assets/156948058/b0ef7f80-06b2-4ed0-8e60-c98cd9f680be)
+
 ### 1. Description:
 Develop a web-based Collaborative Task Manager that facilitates seamless collaboration among team members. The system will allow users to create, assign, and track tasks in real-time. It will feature an intuitive interface, notifications, and a dashboard to provide a comprehensive overview of project progress. The Agile SDLC model will enable iterative development, allowing for continuous feedback and improvements based on user input.
+
+![Collaborative](https://github.com/abutalha08/Collaborative-Task-Manager/assets/156948058/080ded60-6dc0-4b7e-9902-18cfeadb92dd)
+
 
 ### 2. Key Features:
 
