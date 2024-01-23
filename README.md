@@ -1,5 +1,16 @@
 ## Project Title: Collaborative Task Manager
 
+#### Submitted By
+- Name : Md. Abu Talha Taufique
+- ID : 2002019
+- L-3, S-I
+- Department: CSE
+
+#### Submitted TO
+- Name: Pankaj Bhowmik(sir)
+- Lecturer: Department of CSE, HSTU
+  <hr/>
+
 ## SDLC Model: Agile
 
 
